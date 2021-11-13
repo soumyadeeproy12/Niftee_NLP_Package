@@ -7,3 +7,4 @@
 <p> After cloning the repo and routing to the directory where the repo is stored, in your command prompt please run the command </p>
 <code> python main.py </code>
 <p>And it will ask you for a input string, you can type it there, e.g: I'm a good guy, and it will throw the Valence, arousal, emotion tag in the cmd window itself</p>
+![output](https://github.com/soumyadeeproy12/Niftee_NLP_Package/blob/main/output.png)
